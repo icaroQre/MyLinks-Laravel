@@ -71,35 +71,35 @@ CTRL + C
 
 ### 🏠 Tela Inicial
 A tela inicial apresenta uma visão geral da plataforma e os principais recursos disponíveis.
-![Home](public/home-mylinks.png)
+![Home](readme/home-mylinks.png)
 
 ### 🔐 Tela de Login
 Interface para autenticação dos usuários.
-![Login](public/login-mylinks.png)
+![Login](readme/login-mylinks.png)
 
 ### 📝 Tela de Registro
 Permite que novos usuários criem uma conta.
-![Registro](public/register-mylinks.png)
+![Registro](readme/register-mylinks.png)
 
 ### 📊 Dashboard
 Painel onde os usuários podem gerenciar seus links.
-![Dashboard](public/dashboard-mylinks.png)
+![Dashboard](readme/dashboard-mylinks.png)
 
 ### 🌐 Perfil Público
 Exibe os links do usuário para o público.
-![Perfil Público](public/public-profile.png)
+![Perfil Público](readme/public-profile-mylinks.png)
 
 ### ✏️ Edição de Link
 Permite modificar os links cadastrados.
-![Editar Link](public/edit-link-mylinks.png)
+![Editar Link](readme/edit-link-mtlinks.png)
 
 ### ➕ Criação de Link
 Interface para adicionar novos links.
-![Criar Link](public/create-link-mylinks.png)
+![Criar Link](readme/create-link-mylinks.png)
 
 ### 👤 Edição de Perfil
 Usuários podem personalizar sua foto, descrição e handle.
-![Editar Perfil](public/edit-profile.png)
+![Editar Perfil](readme/edit-profile-mylinks.png)
 
 ## 📜 Licença
 
