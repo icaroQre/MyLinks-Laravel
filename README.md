@@ -4,6 +4,8 @@
 
 Repositório para a aplicação MyLinks, uma plataforma que permite aos usuários criar e compartilhar seus links personalizados.
 
+![Home](readme/home-mylinks.png)
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Backend**: Laravel + SQLite
@@ -68,10 +70,6 @@ CTRL + C
 ```
 
 ## 📸 Capturas de Tela
-
-### 🏠 Tela Inicial
-A tela inicial apresenta uma visão geral da plataforma e os principais recursos disponíveis.
-![Home](readme/home-mylinks.png)
 
 ### 🔐 Tela de Login
 Interface para autenticação dos usuários.
